@@ -1,7 +1,7 @@
 ### Hi, I'm Inifome
 
 - 🔭 I code in C and C# primarily
-- 🌱 I’m currently learning [Rust](https://doc.rust-lang.org/book/)
+- 🌱 I’m currently learning Golang
 - 📫 I'm looking for a new full time role, so if you know of any companies that need a C or C# engineer, [reach out!](https://www.linkedin.com/in/inifome-eleluwor/)
 
 <!--
