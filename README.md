@@ -2,7 +2,6 @@
 
 - 🔭 I code in C and C# primarily
 - 🌱 I’m currently learning Golang
-- 📫 I'm looking for a new full time role, so if you know of any companies that need a C or C# engineer, [reach out!](https://www.linkedin.com/in/inifome-eleluwor/)
 
 <!--
 **inifomeg/inifomeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
