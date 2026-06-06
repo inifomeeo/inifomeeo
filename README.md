@@ -1,7 +1,8 @@
-### Hi, I'm Inifome
+### Hi, I'm Inifome 👋
 
+- 🚀 I'm a back end developer
 - 🔭 I code in C and C# primarily
-- 🌱 I’m currently learning Golang
+- 🧠 I’m currently learning Golang
 
 <!--
 **inifomeg/inifomeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
