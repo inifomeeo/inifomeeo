@@ -1,7 +1,7 @@
 ### Hi, I'm Inifome 👋
 
 - 🖥️ I'm a back end developer
-- 🔭 I code in Go, TypeScript, C#, and Python primarily
+- 🔭 I code in Go, C#, TypeScript, and Python primarily
 - 🦀 I’m currently learning Rust
 
 <!--
